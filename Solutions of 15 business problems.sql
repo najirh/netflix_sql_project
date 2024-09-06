@@ -57,7 +57,7 @@ ORDER BY total_content DESC
 LIMIT 5
 
 
--- 5. Identify the longest movie or TV show duration
+-- 5. Identify the longest movie
 
 SELECT 
 	*
