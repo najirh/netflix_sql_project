@@ -110,7 +110,7 @@ LIMIT 5;
 
 **Objective:** Identify the top 5 countries with the highest number of content items.
 
-### 5. Identify the Longest Movie or TV Show Duration
+### 5. Identify the Longest Movie
 
 ```sql
 SELECT 
@@ -170,7 +170,8 @@ GROUP BY 1;
 
 **Objective:** Count the number of content items in each genre.
 
-### 10. Find Each Year and the Average Number of Content Releases by India on Netflix
+### 10.Find each year and the average numbers of content release in India on netflix. 
+return top 5 year with highest avg content release!
 
 ```sql
 SELECT 
